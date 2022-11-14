@@ -102,3 +102,9 @@ The add-in project that you've created with the Yeoman generator contains sample
 
 4. At the bottom of the task pane, choose the **Run** link to add the text "Hello World" to the document in blue font.
    ![Alt text](help/word-quickstart-addin-1c.png?raw=true)
+
+## Develop new features
+We develop the folowing new features using "[Tutorial: Create a Word task pane add-in](https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/word-tutorial)".
+1. Insert a paragraph.<br/>
+   Please follow the [Insert a range of text](https://learn.microsoft.com/en-us/office/dev/add-ins/tutorials/word-tutorial#insert-a-range-of-text) to develop this feature. (See the below image)
+   ![Alt text](help/word-insert-paragraph.png?raw=true)
